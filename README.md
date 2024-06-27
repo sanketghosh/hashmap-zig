@@ -1,2 +1,3 @@
-# hashmap-zig
-implementing hashmap in zig
+# Hashmap Zig
+
+Trying out Zig by implementing a Hashmap
